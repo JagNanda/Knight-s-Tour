@@ -19,5 +19,7 @@ A knight randomnly selects an available square until it can no longer move. The 
 ![image](https://user-images.githubusercontent.com/47337941/60121777-d862a780-9751-11e9-80e7-c8070ba340f3.png)
 
  Using this method, the knight is consistently able to hit 55+ squares.
+
+
 ![image](https://user-images.githubusercontent.com/47337941/60121979-44dda680-9752-11e9-94d4-0692b0d87483.png)
 
